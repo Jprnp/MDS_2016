@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>BlackJack</name>
+	<name>InterfaceJava</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Interface/nconsegue.wav</name>
+			<type>1</type>
+			<location>C:/Users/Ullrick/workspace/InterfaceJava/nconsegue.wav</location>
+		</link>
+		<link>
+			<name>src/Interface/tetra.wav</name>
+			<type>1</type>
+			<location>C:/Users/Ullrick/workspace/BlackJack/tetra.wav</location>
+		</link>
+	</linkedResources>
 </projectDescription>
