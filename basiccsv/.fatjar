@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 18 12:28:13 BRST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=basiccsv_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.github.jprnp.mds_2016.study.basiccsv.App
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
